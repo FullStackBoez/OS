@@ -5,7 +5,7 @@ import java.util.concurrent.Semaphore;
  *
  * @author ristes + Bani57
  */
-public class TancSoStudentite {
+public class TancSoStudentite2 {
     //TODO: Definicija na globalni promenlivi i semafori
     private Semaphore sem1;
     private Semaphore sem2;

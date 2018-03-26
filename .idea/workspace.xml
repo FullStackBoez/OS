@@ -2,26 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d95acec-c710-401f-b33f-18e8cda14263" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TancSoStudentite2$Dete.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TancSoStudentite2$Masko.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TancSoStudentite2$Show.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TancSoStudentite2$Zensko.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TancSoStudentite2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TribeDinner$LimitedCounter.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TribeDinner$PointsException.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TribeDinner$State.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TribeDinner$TemplateThread.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TribeDinner$TribeMember.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TribeDinner.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TancSoStudentite2.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$Barber.class" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$Barber.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$Consumer.class" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$Consumer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$PointsException.class" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$PointsException.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$State.class" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$State.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$TemplateThread.class" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances$TemplateThread.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances.class" afterPath="$PROJECT_DIR$/out/production/OS zadaci/TemplateNumRunsAndNumInstances.class" />
+      <change beforePath="$PROJECT_DIR$/src/TancSoStudentite2.java" afterPath="$PROJECT_DIR$/src/TancSoStudentite2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,31 +14,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TancSoStudentite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TancSoStudentite.java">
+      <file leaf-file-name="Scheduler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Scheduler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+            <state relative-caret-position="1078">
+              <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TancSoStudentite2.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TancSoStudentite2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1956#1957#0" expanded="true" />
-                <element signature="e#2018#2019#0" expanded="true" />
-                <element signature="e#3063#3064#0" expanded="true" />
-                <element signature="e#3125#3126#0" expanded="true" />
-                <element signature="e#4315#4316#0" expanded="true" />
-                <element signature="e#4377#4378#0" expanded="true" />
+                <element signature="e#993#994#0" expanded="true" />
+                <element signature="e#1031#1032#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,6 +67,8 @@
         <option value="$PROJECT_DIR$/src/TemplateNumRunsAndNumInstances.java" />
         <option value="$PROJECT_DIR$/src/TribeDinner.java" />
         <option value="$PROJECT_DIR$/src/TancSoStudentite2.java" />
+        <option value="$PROJECT_DIR$/src/Scheduler.java" />
+        <option value="$PROJECT_DIR$/src/CalciumNitride.java" />
       </list>
     </option>
   </component>
@@ -188,7 +155,7 @@
     </configuration>
     <configuration name="Unnamed" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="TancSoStudentite2" />
+      <option name="MAIN_CLASS_NAME" value="Scheduler" />
       <option name="VM_PARAMETERS" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
@@ -299,16 +266,15 @@
       <workItem from="1521570348188" duration="27000" />
       <workItem from="1521570463674" duration="9039000" />
       <workItem from="1522001619437" duration="610000" />
-      <workItem from="1522071814106" duration="11879000" />
+      <workItem from="1522071814106" duration="14829000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37284000" />
+    <option name="totallyTimeSpent" value="40234000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -320,11 +286,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23117709" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23117709" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.153125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -393,7 +359,7 @@
         <state relative-caret-position="629">
           <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#877#878#0" expanded="false" />
             <element signature="e#917#918#0" expanded="false" />
           </folding>
@@ -415,7 +381,7 @@
         <state relative-caret-position="1139">
           <caret line="74" column="40" lean-forward="false" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#2161#2162#0" expanded="false" />
             <element signature="e#2199#2200#0" expanded="false" />
             <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="false" />
@@ -432,7 +398,7 @@
         <state relative-caret-position="544">
           <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#892#893#0" expanded="false" />
             <element signature="e#930#931#0" expanded="false" />
             <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="false" />
@@ -457,7 +423,7 @@
         <state relative-caret-position="629">
           <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#877#878#0" expanded="false" />
             <element signature="e#917#918#0" expanded="false" />
           </folding>
@@ -479,7 +445,7 @@
         <state relative-caret-position="1139">
           <caret line="74" column="40" lean-forward="false" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#2161#2162#0" expanded="false" />
             <element signature="e#2199#2200#0" expanded="false" />
             <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="false" />
@@ -496,7 +462,7 @@
         <state relative-caret-position="544">
           <caret line="42" column="20" lean-forward="true" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#892#893#0" expanded="false" />
             <element signature="e#930#931#0" expanded="false" />
             <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="false" />
@@ -521,7 +487,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#877#878#0" expanded="false" />
             <element signature="e#917#918#0" expanded="false" />
           </folding>
@@ -533,7 +499,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#877#878#0" expanded="false" />
             <element signature="e#917#918#0" expanded="false" />
           </folding>
@@ -699,7 +665,7 @@
         <state relative-caret-position="629">
           <caret line="42" column="28" lean-forward="false" selection-start-line="42" selection-start-column="28" selection-end-line="42" selection-end-column="28" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#877#878#0" expanded="false" />
             <element signature="e#917#918#0" expanded="false" />
           </folding>
@@ -711,7 +677,7 @@
         <state relative-caret-position="1139">
           <caret line="74" column="40" lean-forward="false" selection-start-line="74" selection-start-column="40" selection-end-line="74" selection-end-column="40" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#2161#2162#0" expanded="false" />
             <element signature="e#2199#2200#0" expanded="false" />
             <element signature="n#!!doc;n#state#0;n#TemplateNumRunsAndNumInstances#0" expanded="false" />
@@ -728,7 +694,7 @@
         <state relative-caret-position="510">
           <caret line="42" column="20" lean-forward="false" selection-start-line="42" selection-start-column="20" selection-end-line="42" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
             <element signature="e#892#893#0" expanded="false" />
             <element signature="e#930#931#0" expanded="false" />
             <element signature="n#!!doc;n#state#0;n#TribeDinner#0" expanded="false" />
@@ -748,29 +714,65 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/TancSoStudentite2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1957#1958#0" expanded="true" />
+            <element signature="e#2019#2020#0" expanded="true" />
+            <element signature="e#3064#3065#0" expanded="true" />
+            <element signature="e#3126#3127#0" expanded="true" />
+            <element signature="e#4316#4317#0" expanded="true" />
+            <element signature="e#4378#4379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Scheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1078">
+          <caret line="49" column="29" lean-forward="true" selection-start-line="49" selection-start-column="29" selection-end-line="49" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#993#994#0" expanded="true" />
+            <element signature="e#1031#1032#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_kol1-t3-zad2.zip/kol1g2/src/mk/ukim/finki/os/synchronization/exam14/march/CalciumNitride.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_kol1-t3-zad2.zip/kol1g2/src/mk/ukim/finki/os/synchronization/exam14/march/CalciumNitrideState.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="59" column="39" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TancSoStudentite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        <state relative-caret-position="0">
+          <caret line="0" column="7" lean-forward="true" selection-start-line="0" selection-start-column="7" selection-end-line="0" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TancSoStudentite2.java">
+    <entry file="file://$PROJECT_DIR$/src/CalciumNitride.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="36" column="5" lean-forward="true" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1956#1957#0" expanded="true" />
-            <element signature="e#2018#2019#0" expanded="true" />
-            <element signature="e#3063#3064#0" expanded="true" />
-            <element signature="e#3125#3126#0" expanded="true" />
-            <element signature="e#4315#4316#0" expanded="true" />
-            <element signature="e#4377#4378#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="490">
+          <caret line="106" column="50" lean-forward="false" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>
